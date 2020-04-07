@@ -9,7 +9,7 @@ var app = express();
 
 
 /** 1) Meet the node console. */
-console.log( "Hello World" );
+console.log('hello world');
 
 /** 2) A first working Express Server */
 
